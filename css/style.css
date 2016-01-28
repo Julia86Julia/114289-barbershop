@@ -1,0 +1,21 @@
+body {
+    font-size:16px;
+    line-height:normal;
+    color:#000;
+    font-weight:bold;
+    font-family:"PTSans NarrowBold";
+}
+h1 {
+    font-family:"PTSans NarrowBold";
+    line-height:normal;
+    color:#000;
+    font-size:30px;
+    text-transform:uppercase;
+}
+h2 {
+    font-family:"PTSans NarrowBold";
+    line-height:normal;
+    color:#000;
+    font-size:24px;
+    font-feight:bold;
+}
